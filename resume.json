@@ -1,0 +1,88 @@
+{
+	"basics": {
+		"name": "Hossam Saraya",
+		"label": "Software Engineer",
+		"picture": "",
+		"email": "hossam.saraya@gmail.com",
+		"phone": "+201000629998",
+		"website": "http://saraya.io",
+		"summary": "I am a software engineer who is passionate about working in creative teams and exploring new tools and technologies. I have been in senior positions in some companies around USA and Europe. I am very passionate about UI Design and frontend development. My passion about the previously mentioned fields doesn‘t stop me from constantly diving into the backend and DevOps world and making daring and intelligent decisions to solve complex problems. I am also very passionate about web/mobile application security.",
+		"location": {
+			"address": "6 Zahraa St., Cairo",
+			"postalCode": "",
+			"city": "Cairo",
+			"countryCode": "EG"
+		},
+		"profiles": [
+			{
+				"network": "Twitter",
+				"username": "hossamsaraya",
+				"url": "http://twitter.com/hossamsaraya"
+			},
+			{
+				"network": "Github",
+				"username": "daedlock",
+				"url": "http://github.com/daedlock"
+			},
+			{
+				"network": "LinkedIn",
+				"username": "hossamsaraya",
+				"url": "https://www.linkedin.com/in/hossamsaraya"
+			},
+			{
+				"network": "StackOverflow",
+				"username": "deadlock",
+				"url": "http://stackoverflow.com/users/552301/deadlock"
+
+			}
+		]
+	},
+	"work": [
+		{
+			"company": "ARGO",
+			"position": "Javascript Engineer",
+			"website": "http://goargo.com",
+			"startDate": "2016-07-01",
+			"summary": "Description..."
+		}
+	],
+	"education": [{
+		"institution": "German University in Cairo",
+		"area": "Computer Science",
+		"studyType": "Bachelor",
+		"startDate": "2007-01-01",
+		"endDate": "2013-01-01",
+		"gpa": "2.3",
+		"courses": [
+			"Artificial Intelligence",
+			"Operating Systems",
+			"Theory of Computation",
+			"Software Analysis",
+			"Compilers",
+			"Human Computer Interaction",
+			"Computer Security",
+			"Machine Learning",
+			"Data Mining"
+		]
+	}],
+	"publications": [{
+		"name": "SQL Injection in AdoDB",
+		"publisher": "Hossam Saraya",
+		"releaseDate": "2014-10-01",
+		"website": "http://publication.com",
+		"summary": "A publication where I talk about how I broke into any PHP website using AdoDB wrapper"
+	}],
+	"skills": [{
+		"name": "Web Development",
+		"level": "Master",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"Javascript"
+		]
+	}],
+	"languages": [{
+		"name": "English",
+		"level": "Fluent"
+	}]
+}
